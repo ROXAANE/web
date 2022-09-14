@@ -7,7 +7,7 @@ title: Advaith Bhat
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: ""
+baseurl: "/web"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
@@ -86,7 +86,7 @@ contact_description: Contact me on Gmail, Telegram, Instagram and Twitter.
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: ROXAANE/ROXAANE.github.io
+repository: ROXAANE/web
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
